@@ -1,0 +1,10 @@
+
+
+#check current python version
+python/py --version
+
+#install venv
+py -m pip install --user virtualenv
+
+#create virtual enviroment
+venv\Scripts\activate
